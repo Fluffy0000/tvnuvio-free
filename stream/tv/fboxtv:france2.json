@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "🇫🇷 France 2 (HD)",
+      "url": "rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd"
+    },
+    {
+      "title": "🇫🇷 France 2 (Auto)",
+      "url": "rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201"
+    },
+    {
+      "title": "🇫🇷 France 2 (SD)",
+      "url": "rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd"
+    },
+    {
+      "title": "🇫🇷 France 2 (LD)",
+      "url": "rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=ld"
+    }
+  ]
+}
