@@ -1,0 +1,25 @@
+{
+  "id": "org.freeboxtv.live.fr",
+  "version": "1.0.0",
+  "name": "🇫🇷 Freebox TV — Direct TNT",
+  "description": "Chaînes de télévision françaises en direct via playlist Freebox / RTSP",
+  "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Freebox_logo.svg/512px-Freebox_logo.svg.png",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "tv"
+  ],
+  "idPrefixes": [
+    "fboxtv:"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "freeboxtv-direct",
+      "name": "🇫🇷 Direct TNT (Freebox)"
+    }
+  ]
+}
