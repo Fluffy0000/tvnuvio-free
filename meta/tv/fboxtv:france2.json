@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "id": "fboxtv:france2",
+    "type": "tv",
+    "name": "France 2",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/France_2_2018.svg/512px-France_2_2018.svg.png",
+    "posterShape": "square",
+    "description": "France 2 en direct (Freebox TV RTSP)"
+  }
+}
